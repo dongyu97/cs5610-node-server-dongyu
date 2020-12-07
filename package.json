@@ -1,0 +1,24 @@
+{
+  "name": "cs5610-node-server-dongyu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dongyu97/cs5610-node-server-dongyu.git"
+  },
+  "author": "dongyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dongyu97/cs5610-node-server-dongyu/issues"
+  },
+  "homepage": "https://github.com/dongyu97/cs5610-node-server-dongyu#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pac": "^1.0.0",
+    "package.json": "^2.0.1"
+  }
+}
